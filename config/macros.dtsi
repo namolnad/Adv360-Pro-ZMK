@@ -4,7 +4,7 @@ label = "macro_email";
 #binding-cells = <0>;
 wait-ms = <10>;
 tap-ms = <20>;
-bindings = <&kp D &kp A>, <&kp N>, <&kp I>, <&kp E>, <&kp L>, <&kp DOT>, <&kp H>, <&kp DOT>, <&kp L>, <&kp O>, <&kp M>, <&kp A>, <&kp N>, <&kp AT>, <&kp G>, <&kp M>, <&kp A>, <&kp I>, <&kp L>, <&kp DOT>, <&kp C>, <&kp O>, <&kp M>;
+bindings = <&kp D &kp A &kp N &kp I &kp E &kp L &kp DOT &kp H &kp DOT &kp L &kp O &kp M &kp A &kp N &kp AT &kp G &kp M &kp A &kp I &kp L &kp DOT &kp C &kp O &kp M>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
